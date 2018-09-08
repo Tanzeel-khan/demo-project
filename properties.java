@@ -35,7 +35,7 @@ public class properties {
      Point ob1=new Point(100,22);
     Point ob2=new Point(100,22);
     Point ob3=new Point(2,3);
-    System.out.println("ob1==ob2"+ob1.equ(ob2));
+    System.out.println("now ob1==ob2"+ob1.equ(ob2));
     System.out.println("ob1==ob3"+ob1.equ(ob3));
     }
 }
